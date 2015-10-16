@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #EAEAEA
+}
+
+.chart {
+    background-color: #EAEAEA;
+}
+
+.bar {
+    fill: #6C9
+}
+
+.bar:hover {
+    fill: #ff8d03
+}
+
+.x-axis, .y-axis {
+    fill: none;
+    stroke: #000;
+    font: 15px monospace
+}
+
+.form {
+    text-align: center;
+}
+
+.form__textarea {
+    margin:15px auto;
+    padding: 5px;
+    width: 90%;
+    height: 50px;
+    border: solid 2px black
+}
